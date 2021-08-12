@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-blog-template",
-  "description": "GatsbyJS Blog Template for blogging purpose.",
+  "name": "peligro-nueva-era",
+  "description": " Informacion de la Nueva Era",
   "version": "1.1.1",
-  "author": "Lam Pham <completejavascript.super@gmail.com>",
+  "author": "Brahian VT",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
