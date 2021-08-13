@@ -36,7 +36,7 @@ const config = {
   pageNotFoundTitle: "Page Not Found", //
   pageNotFoundBtn: "Back to our site",
   pageNotFoundContent:
-    "Nose encontro la pagina",
+    "Nose encontró la pagina",
   // Use for tag
   pathPrefixTag: "/tag", // Prefix path for tags
   tagHeader: "Posts tagged as", // use in header of tag-template page
@@ -51,7 +51,7 @@ const config = {
   latestPostsWidgetTitle: "Ultimos posts",
   linksWidgetTitle: "Links",
   // Use for Google custom search
-  searchWidgetTitle: "Busca algo especifico ?",
+  searchWidgetTitle: "Busqueda?",
   searchWidgetPlaceHolder: "Busca palabra clave",
   searchEngineID: "008548374781244864787:9ybvtnkbt7o",
   hasSearch: true,
