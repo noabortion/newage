@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: ""En Perú alertan del peligro de jugar ouija en Halloween""
+title: "En Perú alertan del peligro de jugar ouija en Halloween"
 cover: "../images/7ouija.jpg"
 date: "2008-11-05T08:00:00Z"
 slug: "brujas"
@@ -14,7 +14,7 @@ tags:
 ---
 
 # En Perú alertan del peligro de jugar "ouija" en Halloween
-![Ouija](../images/7ouija.jpg)
+![Halloween](../images/7ouija.jpg)
 "01:02 PM Lima.- El ministerio de Salud en vísperas del día de las brujas o **Halloween**, hizo una advertencia el jueves sobre los peligros de la **ouija**, un juego de mesa por el cual quienes lo practican **convocan a los espíritus**, y que dijo ha provocado varias atenciones en hospitales por casos de **histeria, esquizofrenia y trastornos sicóticos**.  
 
 "Con ocasión de las fiestas de **Halloween**, generalmente los adolescentes optan por practicar ese juego entrando "en un **trance de exaltación y de distorsión de la realidad** que puede conducir al suicidio, advirtió **Freddy Vásquez, director del Centro de Prevención del Suicidio del hospital Hideyo Noguchi del Ministerio de Salud**, según una nota difundida por el ministerio, informó AP.  
