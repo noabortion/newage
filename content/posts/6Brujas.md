@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: ""Las brujas sí existen...""
+title: "Las brujas sí existen..."
 cover: "../images/6bruja.jpg"
 date: "2008-10-13T08:00:00Z"
 slug: "brujas"
