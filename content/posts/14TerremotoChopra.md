@@ -3,12 +3,12 @@ template: "post"
 title: "Afirma Chopra ser causante del pasado temblor en México y EU"
 cover: "../images/14Chopra.jpg"
 date: "2010-01-21T08:00:00Z"
-slug: "muerte"
-keywords: "muerte"
+slug: "chopra"
+keywords: "chopra"
 categories: 
     - new age
 tags:
-    - Chopra
+    - chopra
 ---
 
 El pasado temblor de 7.2 grados en escala de Richter, ocurrido el pasado 4 de abril de 2010 en Mexicalli y sur de California, fue resultado de la meditación en el mantra Shiva de Deepak Chopra, médico indio, según afirmó en su Twitter el propio gurú espiritual y uno de los más importantes promotores ideológicos de la Nueva Era.
