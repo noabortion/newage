@@ -12,6 +12,7 @@ tags:
 ---
 
 # Nuevo signo zodiacal cuestiona nuevamente los horroróscopos
+![Horoscopos](../images/26Horo.jpg)
 
 **El nuevo signo “Ofiuco” (“el portador de la serpiente”) propuesto la semana pasada por el profesor de astronomía** de la Universidad Técnica y Comunitaria de Minneapolis, **Parke Kunkle**, resquebraja el endeble sistema de creencias astrológicas en Occidente y conmociona a sus creyentes. ¿Por qué?
 
@@ -37,5 +38,5 @@ Lamentablemente se ha venido menospreciado su Palabra, pero ésta no dejará de 
 Fuente: Elaboración propia con base en el libro “Nueva Era vs. Buena Nueva”, y El Universal, 15 enero 2011 
 [Checar aqui](www.eluniversal.com.mx/sociedad/6813.html)
 
-Véase el mismo artículo en el periódico "El Mensajero", 6 marzo 2011, No. 72, órgano de la Provincia Eclesiástica (Tlalnepantla, Edo. Mex.)[http://issuu.com/tierradeenmedio/docs/mensajero_72]
+Véase el mismo artículo en el periódico "El Mensajero", 6 marzo 2011, No. 72, órgano de la Provincia Eclesiástica [Tlalnepantla, Edo. Mex.](http://issuu.com/tierradeenmedio/docs/mensajero_72)
 
