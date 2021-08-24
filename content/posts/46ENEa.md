@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: "ENEAGRAMA, ¿método de crecimiento espiritual?"
+title: "Eneagrama, ¿método de crecimiento espiritual?"
 cover: "../images/46Ene.jpg"
 date: "2012-01-23T08:00:00Z"
 slug: "enegrama"
