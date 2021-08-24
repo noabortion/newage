@@ -19,6 +19,9 @@ El padre Miguel Pastorino es miembro fundador de la [Red Iberoamericana de Estud
 ## ¿Qué es propiamente el Reiki?
 Miguel Pastorino: No es simplemente una terapia, sino una cosmovisión religiosa, con ritos iniciáticos y una espiritualidad panteísta que se amalgama con elementos cristianos, y con no pocos principios esotéricos y gnósticos, según las diversas escuelas o sistemas.  
 
+![Reiki](../images/43Reiki.jpg)
+
+
 El Reiki es definido como "camino espiritual" o" sistema de crecimiento espiritual" por varios de sus maestros. Como un "método natural de curación por medio de la energía universal, cósmica. "Rei Ki" es un término de origen japonés que se refiere a la "energía vital (ki) universal (rei)" que fluye a través de una persona que ha sido sintonizada en Reiki.
 "Rei" describe el ser universal, impersonal, omnisciente, que otorga vida, como los rayos del sol a los seres vivos. "Ki" es lo que emana del "rei", es la energía o fuerza vital que pasa a través de todo lo que vive. Usualmente traducen "ReiKi" como: "Energía Universal guiada espiritualmente.  
 
