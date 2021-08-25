@@ -1,8 +1,8 @@
 ---
 template: "post"
-title: "Del "mesías extraterrestre" al 'nuevo jesucristo', más engaños New Age"
+title: "Del 'mesías extraterrestre' al 'nuevo jesucristo', más engaños New Age"
 cover: "../images/66Mes.jpg"
-date: "2012-09-06T08:00:00Z"
+date: "2013-02-16T08:00:00Z"
 slug: "falsos-cristos"
 keywords: "cristo"
 categories: 
@@ -49,4 +49,4 @@ No puedo dejar de advertir, también, la profunda ignorancia, sumisión y candid
 
 Una buena formación cristiana actúa como blindaje y antídoto eficaz contra este tipo de abusos.
 
-<www.CISNE.org.mx>
+<http://www.CISNE.org.mx>
