@@ -17,6 +17,7 @@ MADRID, 30 Mar. 12 / 11:28 am (ACI).- **El diario deportivo Marca confirmó que 
 
 
 ![Real Madrid](../images/54Real.jpg) 
+
 El cambio –que exclusivamente afectará su imagen en los países musulmanes– fue confirmado ayer jueves 29 de marzo en el acto de presentación del resort de lujo que costará unos mil millones de dólares y abrirá sus puertas en enero de 2015.
 
 Según informa el diario Marca, las autoridades del club han cuidado de "todos los detalles" y decidieron "prescindir de la cruz que hay en la corona del escudo para evitar de esta forma cualquier tipo de confusión o mal interpretaciones en una zona con gran mayoría de población que profesan la religión musulmana".
