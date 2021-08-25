@@ -1,8 +1,8 @@
 ---
 template: "post"
 title: "Nuevo libro 'El Engaño de la Nueva Era'"
-cover: "../images/62Flor.jpg"
-date: "2012-09-13T08:00:00Z"
+cover: "../images/63New.jpg"
+date: "2012-11-02T08:00:00Z"
 slug: "mentinra-nueva-era"
 keywords: "nueva era"
 categories: 
