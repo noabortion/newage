@@ -22,23 +22,23 @@ El sacerdote barcelonés Enrique Cases, químico y doctor en Teología canónica
 
 ![Reiki](../images/77Reiki.jpg)  
 
-### Profesora de Reiki durante años, una imagen e la Virgen la transformó… ahora es laica consgrada
+### Profesora de Reiki durante años, una imagen e la Virgen la transformó… ahora es laica consagrada
 La “fascinación” por Raví Shankar
 La curiosidad fue más –comenta Moira Noonan- y paulatinamente comenzó a transitar por el “peligroso y embaucador” camino de la Nueva Era. “Una de mis profesoras, me atrajo a su círculo de amigos, al igual que a muchas de las niñas de la escuela, tanto durante como después del horario escolar. Ella había estudiado en la India y tenía un fuerte apego a diversos credos hinduistas y estaba prometida con un Hindú, académico de la Universidad de Priceton.
 El llevaba traje tradicional y turbante –recuerda Moira-, e iba a visitarla a nuestro internado de forma regular. Acudimos con ellos a muchos conciertos, incluyendo los de Ravi Shankar y se nos hizo cada día más fascinante el misterio de la cultura y creencias de la India”.
 Leer aquí: <http://www.religionenlibertad.com/articulo.asp?idarticulo=30760>
 
 
-###Reiki: ¿Compatible con la Fe cristiana?
+### Reiki: ¿Compatible con la Fe cristiana?
 
-¿Gurú o Jesús? Testimonio del ex asistente del gurú de los Beatles, Jean Marie Verlinde
+¿Gurú o Jesús? Testimonio del ex asistente del gurú de los Beatles, Jean Marie Verlinde   
 
-Hoy sacerdote católico, viaja por el mundo para alertar sobre la Yoga, el Reiki, etc. 
-Checar articulo [aqui](/de-guru-a-sacerdote)
+Hoy sacerdote católico, viaja por el mundo para alertar sobre la Yoga, el Reiki, etc.   
+Checar articulo [aqui](/de-guru-a-sacerdote)  
 Cuenta su interesante historia en este video: <http://es.gloria.tv/?media=247077>
 
 
-La Ciencia cuestiona de nuevo la “energía” mística New Age
+La Ciencia cuestiona de nuevo la “energía” mística New Age  
 Checar articulo [aqui](/energia-new-age)
 
 *Jaime Duarte Mtz., Director del CISNE*
