@@ -54,5 +54,5 @@ A fin de discernir si usted o algún miembro de su familia incursionó en el ocu
 **Dios le ama profundamente y no quiere que usted ni los suyos se pierdan ni sufran más las consecuencias que conlleva el alejarse de Él** con la práctica y el pecado del ocultismo. Su mayor muestra es que Cristo, su Hijo, se encarnó y con su pasión, muerte y resurrección venció al Enemigo y nos alcanzó la libertad. Recuerde: *“Yo he venido para que tengan vida y la tengan en abundancia”*. (Juan 10,10).
 
 *Jaime Duarte Mtz., Director CISNE*  
-*@JaimeDuarte*
+*@JaimeDuarte*  
 *@CISNE_2012*
