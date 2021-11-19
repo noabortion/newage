@@ -2,7 +2,7 @@
 template: "post"
 title: "Los Vengadores, ahora ¿esotéricos y ocultistas?"
 cover: "../images/94Ven.jpg"
-date: "2015-055-11T08:00:00Z"
+date: "2015-05-11T08:00:00Z"
 slug: "vengadores-esotericos-ocultistas"
 keywords: "new age"
 categories: 
