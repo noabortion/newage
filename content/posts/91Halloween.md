@@ -9,7 +9,6 @@ categories:
     - new age
 tags: 
     - satanismo
-    - disney
 ---
 # ¿Queremos Halloween?
 
