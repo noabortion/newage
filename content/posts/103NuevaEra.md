@@ -24,3 +24,6 @@ Vea el libro: **Ver el librito: "Nueva Era: el más grande reto para la fe en el
 Si gusta ver el video  
 <iframe width="420" height="315" src="https://www.youtube.com/embed/zT3MghOGOj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+Por Jaime Duarte Mtz., Director del CISNE.  
+<https://www.cisne.org.mx>    
+**@CISNE_2012**  
