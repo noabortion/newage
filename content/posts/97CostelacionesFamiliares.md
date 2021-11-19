@@ -3,7 +3,7 @@ template: "post"
 title: "Constelaciones Familiares. Osho, hinduismo y espíritus presentes"
 cover: "../images/97Cons.jpg"
 date: "2015-08-21T08:00:00Z"
-slug: ""
+slug: "constelaciones-familiares-mas"
 keywords: "new age"
 categories: 
     - new age
