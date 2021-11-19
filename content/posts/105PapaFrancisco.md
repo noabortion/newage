@@ -3,7 +3,7 @@ template: "post"
 title: "Confusión y  por nuevo video del Papa Francisco"
 cover: "../images/105Fra.JPG"
 date: "2016-01-09T08:00:00Z"
-slug: "papa-fransisco-video"
+slug: "papa-francisco-video"
 keywords: "papa francisco"
 categories: 
     - ecumenismo
