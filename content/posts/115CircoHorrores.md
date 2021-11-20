@@ -14,7 +14,7 @@ tags:
 # El Circo de los Horrores. Advertencia seria a los católicos
 ¿Qué es el Circo de los Horrores? ¿Cuál es nuestra postura en el CISNE? ¿Qué hacer frente a este show ocultista? Mi análisis y opinión...
 
-<iframe width="1520" height="589" src="https://www.youtube.com/embed/ab1Jpd_PZw0?list=PLgZTQ5_byGBe9wwA2dQ_g-rX8APMJNfA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1520" height="585" src="https://www.youtube.com/embed/ab1Jpd_PZw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 Por Jaime Duarte Mtz., Director del CISNE.  
