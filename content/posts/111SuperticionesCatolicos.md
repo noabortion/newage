@@ -1,9 +1,9 @@
 ---
 template: "post"
-title: "Las supersticiones de los católicos. Entrevista en EWTN"
-cover: "../images/110.PNG"
-date: "2016-06-18T08:00:00Z"
-slug: "superticiones-catolicos-EWTN"
+title: "El peligro de la Nueva Era. Entrevista a Jaime Duarte en EWTN"
+cover: "../images/112.PNG"
+date: "2016-07-08T08:00:00Z"
+slug: "peligros-nueva-era-EWTN"
 keywords: "new age"
 categories: 
     - new age
@@ -11,12 +11,10 @@ tags:
     - new age
 ---
 
-# Las supersticiones de los católicos. Entrevista a Jaime Duarte por Alejandro Bermúdez en EWTN
-**Alejandro Bermúdez** entrevista a Jaime Duarte Mtz. Director del CISNE en su programa "Cara a Cara" por EWTN, el 2 de junio de 2016. (segunda de 3 entrevistas).
-La tercera entrevista será el día 30 de junio de 2016 sobre el "peligro de la Nueva Era".
+# El peligro de la Nueva Era. Entrevista a Jaime Duarte en EWTN
+**Don Alejandro Bermúdez** entrevista por tercera vez a **Jaime Duarte**, Director del CISNE, sobre el peligro de la herejía New Age, en su programa semanal "Cara a Cara" en EWTN, el 30 de junio de 2016. ¡Transmisión a más de 146 países!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_FjZAcfo5IY?list=PLgZTQ5_byGBcwRX6fofMk3C2qbgGelrQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ls_W7vc_YJw?list=PLgZTQ5_byGBcwRX6fofMk3C2qbgGelrQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 Por Jaime Duarte Mtz., Director del CISNE.  
