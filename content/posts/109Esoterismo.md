@@ -1,6 +1,6 @@
 ---
 template: "post"
-title: "Esoterismo encubierto", entrevista a Jaime Duarte en Ver y Creer"
+title: "Esoterismo encubierto, entrevista a Jaime Duarte en Ver y Creer"
 cover: "../images/109.PNG"
 date: "2016-04-28T08:00:00Z"
 slug: "esoterismo-encubierto"
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-# Esoterismo encubierto", entrevista a Jaime Duarte en Ver y Creer
+# Esoterismo encubierto, entrevista a Jaime Duarte en Ver y Creer
 Entrevista a Jaime Duarte, director del CISNE, el pasado domingo 24 de abril, en el programa Ver y Creer, que conduce el Lic. Roberto O'Farril.
 
 
