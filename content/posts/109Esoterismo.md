@@ -17,3 +17,8 @@ Entrevista a Jaime Duarte, director del CISNE, el pasado domingo 24 de abril, en
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sR9PquL7Qcs?list=PLavYacWR0JnIqTTzZMaYcc23LfeTqPGX_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>
+Por Jaime Duarte Mtz., Director del CISNE.  
+<https://www.cisne.org.mx>  
+**@CISNE_2012**
