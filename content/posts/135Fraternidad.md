@@ -6,7 +6,7 @@ date: "2017-03-09T08:00:00Z"
 slug: "postura-sobre-fraternidad-sacerdotal-san-pio"
 keywords: "fraternidad"
 categories: 
-    - new age
+    - cisma
 tags: 
     - fraternidad
 ---
