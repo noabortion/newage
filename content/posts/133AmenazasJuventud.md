@@ -24,7 +24,7 @@ Entrevista del **Lic. Roberto O'Farril a Eréndira Duarte, Rodolfo Rodríguez y 
 
 <br/>
 
-<iframe width="320" height="266" src="https://www.youtube.com/embed/ncNMNilkV5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="320" height="266" src="https://www.youtube.com/embed/ncNMNilkV5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfulollscreen></iframe>  
 
 <br/>  
 
