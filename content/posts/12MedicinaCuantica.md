@@ -18,7 +18,7 @@ tags:
 **Antaño, cuando algo no se entendía, se les achacaba a los dioses. Hoy los gurús de la new age invocan a la física cuántica para justificar toda clase de afirmaciones insólitas sin molestarse en demostrarlas. Pero los gurús están mal informados: la física cuántica no es lo que ellos creen.**
 
 
-![Emos](../images/12Cuan.png)
+![cuantica](../images/12Cuan.png)
 
 
 *"Hasta cuándo vas a seguir inyectándote insulina?”*, pregunta al vacío un cartel pegado en la ventana de una casa del barrio de Coyoacán, en la Ciudad de México. Luego **el letrero ofrece a los diabéticos curarlos sin medicamentos por medio de la “medicina cuántica”**.
