@@ -27,6 +27,9 @@ Sobre la fascinación infantil por lo oculto, titulado: ["Es hora de sacar a Sat
 <br/>  
 
 Parte I: ["Amenzas a la niñez y juventud"](/amenazas-ocultas)  
+
+<br/>  
+
 Por Jaime Duarte Mtz., Director del CISNE.  
 <https://www.cisne.org.mx>  
 **@CISNE_2012**
