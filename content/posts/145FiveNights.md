@@ -2,7 +2,7 @@
 template: "post"
 title: "Videojuego macabro y terrorífico Five Nights at Freddy's"
 cover: "../images/145Five.PNG"
-date: "2017-06-02T08:00:00Z"
+date: "2017-06-22T08:00:00Z"
 slug: "five-Nights-at-Freddy"
 keywords: "freddy"
 categories: 
