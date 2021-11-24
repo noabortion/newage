@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: "Yoga ¡no! Consecuencias y peligros"
-cover: "../images/164Yoga.jpg"
+cover: "../images/165Yoga.jpg"
 date: "2019-05-21T08:00:00Z"
 slug: "yoga-no-peligros"
 keywords: "yoga"
@@ -44,7 +44,7 @@ https://www.youtube.com/playlist?list=PLgZTQ5_byGBe9wwA2dQ_g-rX8APMJNfA0
 ### 6. Peligros y consecuencias (parte B). Naam Yoga y demonios
 <iframe width="320" height="266" src="https://www.youtube.com/embed/eUHLWtdnUwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 7. Testimonio de "Karla"; asedio maligno
+### 7. Testimonio de "Karla", asedio maligno
 <iframe width="320" height="266" src="https://www.youtube.com/embed/2H-ZYz3aS4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Y añadimos el impactante testimonio de la ex bruja, Beth, donde habla (en inglés) sobre la conexión Yoga - ocultismo (satanismo):
