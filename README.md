@@ -128,10 +128,10 @@ const config = {
     },
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "Peligros Nueva Era",
   navLinks: [
-    { label: "About", url: "/about" },
-    { label: "Contact", url: "/contact" },
+    { label: "Acerca", url: "/about" },
+    { label: "Contactos", url: "/contact" },
   ],
   // Use for footer
   socialLinks: [
