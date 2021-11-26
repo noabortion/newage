@@ -9,7 +9,7 @@ const PostInfo = ({ post, extraClass = "" }) => (
         <small>{post.title}</small>
       </h2>
     </AutoLink>
-    <div className="margin-bottom-half">{post.excerpt}</div>
+    <div className="margin-bottom-half"> {post.excerpt}</div>
     <small>
       <PostDate date={post.date} />
     </small>

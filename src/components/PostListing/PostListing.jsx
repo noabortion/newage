@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Article from "./Article";
-
 class PostListing extends Component {
   state = {
     maxPosts:
@@ -22,7 +21,7 @@ class PostListing extends Component {
   render() {
     const { postList, hasThumbnail = true, hasLoadmore = false } = this.props;
     const { maxPosts } = this.state;
-
+    
     return (
       <>
         <div className="post-listing-container">

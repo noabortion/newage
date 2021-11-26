@@ -1,14 +1,17 @@
 .article-container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   .thumbnail-wrapper {
     .thumbnail-img {
-      width: 660px;
-      max-width: 100%;
+      max-width: 250px;
+      max-height: 300px;
     }
+ 
+  max-width: 260px;
+
   }
   .post-info-wrapper {
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 }
 
@@ -18,8 +21,8 @@
     flex-direction: row;
     .thumbnail-wrapper {
       .thumbnail-img {
-        width: 300px;
-        margin-right: 4rem;
+        width: 250px;
+        margin-right: 1rem;
       }
     }
     .post-info-wrapper {

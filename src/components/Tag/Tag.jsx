@@ -6,7 +6,7 @@ const Tag = ({ content }) => (
   <AutoLink
     key={content}
     to={getTagPath(content)}
-    className="inline-block margin-right-half margin-bottom-half 
+    className="inline-block small-text 
       border border-color-light-grey padding-left-half padding-right-half"
   >
     <span>{content}</span>
