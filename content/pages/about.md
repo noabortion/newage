@@ -1,68 +1,29 @@
 ---
 template: "page"
-title: "About"
-description: "This is a description on About"
+title: "Acerca de"
+description: "Acerca de"
 slug: "about"
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+## Cisne, Quienes Somos?
+http://www.cisne.org.mx
+## Aprobación eclesial
+Aprob. Eclesial
+Con aprobación Eclesiástica. ARQUIDIÓCESIS PRIMADA DE MÉXICO, CANCILLERÍA:  
 
-## Sedisti civiliter
+"Nihil Obstat". Pbro. Dr. Federico Altbach Núñez, Censor Eclesiástico (28 febrero 2008).  
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+"Imprimatur". Mons. Guillermo Moreno Bravo, Vicario General (14 mayo 2008).  
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+"In Fidem". Pbro. Juan de Dios Olvera, Canciller.  
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+[Con sello de la Cancillería, Arzobispado de México, y nota importante para la publicación]  
+Aprobación eclesiástica  nueva era vs buena nueva  
+Nihil Obstat e Imprimatur, Nueva Era vs Buena Nueva 
+**Link:** http://es.scribd.com/doc/49811818/Nihil-Obstat-e-Imprimatur-Nueva-Era-vs-Buena-Nueva
+## Qué es New Age?
+Es un **fenómeno y movimiento sociocultural** que se presenta en el mundo occidental que mezcla con el cristianismo distintas religiones, cultos, corrientes filosóficas, doctrinas, ideologías, prácticas, terapias, etc. y promueve la próxima llegada (astrológica) de la **"era de Acuario"** (un tiempo de aparente paz, bienestar y armonía mundial), en sustitución de la "era de piscis" (2,000 años de conflicto, guerra y destrucción). Entre dichas creencias o visiones están el orientalismo, el esoterismo, la medicina alternativa, el ocultismo, el relativismo, el sincretismo religioso, el paganismo, etc.  
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+## Corrientes New Age?
+**Link:** http://es.scribd.com/doc/47291839/Grandes-Corrientes-New-Age-Tabla
 
-## Fortis dextrae humo limina Tempus singultibus illa
-
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
-
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
-
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.

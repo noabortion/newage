@@ -6,7 +6,7 @@ date: "2010-07-18T08:00:00Z"
 slug: "Mourinho-ayuda-a-brujos"
 keywords: "mourinho"
 categories: 
-    - new ge
+    - new age
     - brujería
 tags:
     - brujería
