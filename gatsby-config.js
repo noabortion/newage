@@ -196,5 +196,5 @@ module.exports = {
         ],
       },
     },
-  ],
+  ],//pathPrefix: "/newage"
 };
