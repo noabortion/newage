@@ -4,7 +4,7 @@ const config = {
   siteTitleShort: "Peligros Nueva Era", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Peligros Nueva Era", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://gb-template.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://" + process.env.PUBLIC_URL, // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Informar peligros de la Nueva Era", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
@@ -70,14 +70,14 @@ const config = {
   userTwitter: "CISNE_2012", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "México", // User location to display in the author segment.
   userAvatar:
-    "https://www.gravatar.com/avatar/42fd3d526fde1ef76d5002e4ebd303e9.jpg?s=300", // User avatar to display in the author segment.
+    "https://dev2.covalenciawebs.com/wp-content/uploads/2015/06/como-crear-tu-avatar-con-gravatar.png.webp", // User avatar to display in the author segment.
   userDescription:
     "Checar sobre la nueva era", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
       label: "Email",
-      url: "mailto:completejavascript.super@gmail.com",
+      url: "mailto:conferencias@cisne.org.mx",
       iconClassName: "far envelope",
     },
     {
@@ -124,10 +124,9 @@ const config = {
     { label: "Home", url: "/" },
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
-    { label: "Sitemap", url: "https://gb-template.netlify.com/sitemap.xml" },
+    { label: "Sitemap", url: "https://" + process.env.PUBLIC_URL + "/sitemap.xml" },
   ],
-  copyright:
-    "Copyright © 2021 ",
+  copyright: "Copyright © 2022",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
   backgroundColor: "#FFF", // Used for setting manifest background color.

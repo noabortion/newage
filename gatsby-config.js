@@ -124,7 +124,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Gatsby Blog Template";
+          ret.generator = "Gatsby Blog";
           return ret;
         },
         query: `
