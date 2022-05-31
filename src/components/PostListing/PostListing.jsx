@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Article from "./Article";
+import "./PostListing.scss";
 class PostListing extends Component {
   state = {
     maxPosts:
@@ -28,8 +29,7 @@ class PostListing extends Component {
           {postList.map((post, index) => {
             if (index < maxPosts)
               return (
-                <Article
-                  key={post.title}
+                <Article key={post.title}
                   post={post}
                   hasThumbnail={hasThumbnail}
                 />

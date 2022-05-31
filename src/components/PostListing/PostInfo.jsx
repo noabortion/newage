@@ -5,12 +5,12 @@ import PostDate from "../Post/PostDate";
 const PostInfo = ({ post, extraClass = "" }) => (
   <div className={`post-info-wrapper ${extraClass}`}>
     <AutoLink to={post.slug} key={post.title}>
-      <h2>
+      <h5>
         <small>{post.title}</small>
-      </h2>
+      </h5>
     </AutoLink>
-    <div className="margin-bottom-half"> {post.excerpt}</div>
     <small>
+      <div className="margin-bottom-half"> {post.excerpt.substring(0,70)+'...'}</div>
       <PostDate date={post.date} />
     </small>
   </div>

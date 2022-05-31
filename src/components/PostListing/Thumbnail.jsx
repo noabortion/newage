@@ -9,7 +9,9 @@ const Thumbnail = ({ post, extraClass = "" }) => {
       key={post.title}
       className={`thumbnail-wrapper line-height-reset ${extraClass}`}
     >
+
       <GatsbyImage image={getImage(post.cover)} className="thumbnail-img" alt="" />
+    
     </AutoLink>
   ) : null;
 

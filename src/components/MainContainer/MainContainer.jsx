@@ -3,7 +3,7 @@ import "./MainContainer.scss";
 
 const MainContainer = ({ content, sidebar }) => (
   <section className="main-container container">
-    <div className="content-wrapper padding-top-half padding-bottom-2">
+    <div className="content-wrapper padding-top-half padding-bottom-1">
       {content}
     </div>
     <div className="sidebar-wrapper padding-top-half padding-bottom-2">

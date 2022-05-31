@@ -1,24 +1,25 @@
 .article-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   .thumbnail-wrapper {
     .thumbnail-img {
       max-width: 250px;
-      max-height: 300px;
+      max-height: 250px;
     }
  
-  max-width: 260px;
+  max-width: 255px;
 
   }
   .post-info-wrapper {
     margin-top: 1rem;
   }
+  max-width: 250px;
 }
 
 @media (min-width: 600px) {
   .article-container {
     display: flex;
-    flex-direction: row;
+    
     .thumbnail-wrapper {
       .thumbnail-img {
         width: 250px;
