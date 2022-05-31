@@ -1,16 +1,19 @@
+const site = {
+  url:"nuevaeravsbuenanueva.tk",
+}
 const config = {
   // Site info
   siteTitle: "Peligros Nueva Era", // Site title.
   siteTitleShort: "Peligros Nueva Era", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Peligros Nueva Era", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://" + process.env.PUBLIC_URL, // Domain of your website without pathPrefix.
+  siteUrl: "https://" + site.url, // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Informar peligros de la Nueva Era", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "es",
-  siteFBAppID: "399626517562189", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-96543695-7", // GA tracking ID.
+  siteFBAppID: "", // FB Application ID for using app insights
+  googleAnalyticsID: "-", // GA tracking ID.
   postDefaultCategoryID: "", // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 12,
@@ -124,7 +127,7 @@ const config = {
     { label: "Home", url: "/" },
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
-    { label: "Sitemap", url: "https://" + process.env.PUBLIC_URL + "/sitemap.xml" },
+    { label: "Sitemap", url: "https://" + site.url + "/sitemap.xml" },
   ],
   copyright: "Copyright © 2022",
   // Use for manifest
