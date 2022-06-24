@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://nuevaeravsbuenanueva.tk/sitemap.xml
