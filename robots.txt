@@ -1,3 +1,4 @@
 User-agent: *
-
-sitemap: https://nuevaeravsbuenanueva.tk/sitemap/sitemap-index.xml
+Disallow: /search
+Allow: /
+Sitemap: https://nuevaeravsbuenanueva.tk/sitemap/sitemap-index.xml
